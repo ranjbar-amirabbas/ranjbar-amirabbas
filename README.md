@@ -1,59 +1,76 @@
-<h1 align="center">Amir Abbas Ranjbar</h1>
+<!-- HEADER ANIMATION -->
 
-<p align="center">
+<h1 align="center">Hi 👋 I'm Amir Abbas Ranjbar</h1>
+
+<h3 align="center">
 Senior Software Engineer • Distributed Systems • Cloud Platforms
-</p>
+</h3>
 
 <p align="center">
-Designing systems that handle millions of events reliably.
+Building scalable backend systems that process millions of events reliably
 </p>
 
 ---
 
-# About Me
+<!-- TYPING ANIMATION -->
 
-I’m a **Senior Software Engineer focused on large-scale backend systems, distributed architectures, and cloud platforms.**
-
-Over the past 8+ years I have designed and delivered systems that process **hundreds of thousands of transactions per hour** and handle **extreme production traffic reliably.**
-
-I specialize in turning complex business requirements into **high-performance technical platforms**.
-
-Currently building **AI-powered hospitality and smart-building platforms** at **Veera Smart Solution** while exploring **AI-assisted engineering workflows and scalable SaaS architectures**.
-
-I treat software architecture like composing music — systems should be **structured, expressive, and harmonious**.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer;Distributed+Systems+Engineer;Microservices+Architect;Cloud+Platform+Builder;Event-Driven+Systems+Specialist" />
+</p>
 
 ---
 
-# Engineering Focus
+# 🚀 About Me
 
-• Distributed systems  
-• Event-driven architectures  
-• Microservice platforms  
-• Real-time data pipelines  
-• High-performance backend systems  
-• AI-assisted product development  
+I'm a **Senior Software Engineer focused on designing large-scale backend systems and distributed architectures.**
 
----
+Over the past **8+ years**, I have built systems capable of handling:
 
-# Featured Systems
+• **hundreds of thousands of transactions per hour**  
+• **millions of streaming events**  
+• **high-traffic production platforms**
 
-### Real-time Catalog & Pricing Engine
+I enjoy transforming **complex business challenges into scalable technical platforms**.
 
-Built a streaming architecture capable of processing **2M+ product updates per minute** using **Kafka + Apache Flink**.
+Currently building **AI-powered hospitality platforms and smart-building systems** while experimenting with **AI-assisted engineering workflows.**
 
-Replaced a monolithic 30-minute sync process with a **real-time event pipeline** enabling dynamic pricing and near real-time inventory updates.
+I believe software architecture is like music:
 
----
-
-### High-Traffic Gamification Platform
-
-Architected a microservice-based campaign system powering **250,000+ daily orders** during national promotions.
-
-Built with **ASP.NET Core microservices + Kafka event backbone** to handle massive concurrency and reliable reward orchestration.
+> architecture is rhythm  
+> services are instruments  
+> distributed systems are orchestras
 
 ---
 
-### Smart Hospitality Platform
+# 🏗 Systems I've Built
+
+### ⚡ Real-Time Catalog & Pricing Engine
+
+Designed a **streaming architecture processing 2M+ product updates per minute** using:
+
+Kafka  
+Apache Flink  
+Microservices architecture
+
+This replaced a **30-minute monolithic sync pipeline** with real-time streaming.
+
+---
+
+### 🎮 High-Traffic Gamification Platform
+
+Built a campaign system supporting:
+
+**250,000+ daily orders during national campaigns**
+
+Architecture:
+
+ASP.NET Core Microservices  
+Kafka Event Backbone  
+Real-time reward orchestration
+
+---
+
+### 🏨 Smart Hospitality Platform
 
 Co-founded and architected a **BPMS-driven SaaS platform** for:
 
@@ -61,103 +78,24 @@ Co-founded and architected a **BPMS-driven SaaS platform** for:
 • residential complexes  
 • office buildings  
 
-The system automates operations like accounting, facility management, and internal workflows.
+The platform automates operational workflows such as:
+
+facility management  
+accounting processes  
+internal service management
 
 ---
 
-### AI Trip Planner
+### ✈ AI Trip Planner
 
-Developed an **AI-powered tourism assistant** that allows hotels to generate personalized travel plans for guests while enabling managers to create optimized tour packages.
-
----
-
-# Tech Stack
-
-### Backend
-
-C# • .NET • ASP.NET Core • Go • Node.js
-
-### Architecture
-
-Microservices  
-Event-driven systems  
-CQRS  
-Domain Driven Design  
-Distributed systems  
-
-### Data & Streaming
-
-SQL Server  
-Redis  
-Kafka  
-PostgreSQL  
-MongoDB  
-
-### DevOps
-
-Docker  
-Kubernetes  
-GitLab CI/CD  
-Linux  
-Nginx  
-
-### Cloud
-
-AWS  
-Azure  
+Developed an **AI-powered tourism assistant** that enables hotels to generate personalized travel experiences for guests.
 
 ---
 
-# Engineering Principles
+# 🧠 Engineering Philosophy
 
-• Reliability over complexity  
-• Event-driven thinking  
-• Systems that scale without drama  
-• Build fast, refactor wisely  
-• Measure everything  
-
----
-
-# Currently Exploring
-
-• Advanced system design  
-• AI integrations & automation  
-• Kubernetes observability  
-• Cloud cost optimization  
-
----
-
-# Open To Collaborate
-
-• SaaS products  
-• scalable backend systems  
-• event-driven platforms  
-• AI-assisted tools  
-• startup engineering teams  
-
----
-
-# Social
-
-LinkedIn  
-Email  
-
----
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ranjbar-amirabbas&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ranjbar-amirabbas&theme=dracula&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjbar-amirabbas&theme=dracula&hide_border=false&layout=compact)
-
----
-
-# Philosophy
-
-Coding feels like composing music.
-
-Architecture is rhythm.  
-Services are instruments.  
-And bugs are just bad notes.
+```text
+Build systems that scale without drama
+Prefer event-driven thinking
+Optimize for reliability and observability
+Design for evolution, not perfection
